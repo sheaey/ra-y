@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=2c835310-dddd-4b3d-8e9b-7841c897d070
+AUUID=fd219dea-18b3-432a-8a03-7cb781228bb4
 CADDYIndexPage=https://github.com/vvv1/saide/raw/main/3D.zip
 CONFIGCADDY=https://raw.githubusercontent.com/sheaey/ra-y/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/sheaey/ra-y/master/etc/xray.json
